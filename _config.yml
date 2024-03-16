@@ -1,6 +1,6 @@
 title: RezaJax
-logo: /assets/img/logo.png
-description: This is reza.
+logo: /assets/img/syslogo.png
+description: This is reza. <a href="https://github.com/rezajax">@rezajax</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

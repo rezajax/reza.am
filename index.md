@@ -2,122 +2,46 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**BTW**
 
-[Link to another page](./another-page.html).
+[about us](./about.html).
 
-There should be whitespace between paragraphs.
+we put more custom cli in sysbrowser!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+sys is browser for developing..
 
-# Header 1
+# SysBrowser
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+this browser if forked from brave browser.
 
-## Header 2
+## Download
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+can download from there:
 
-### Header 3
+> [link here](https://github.com/rezajax/brave-browser):confused: :heart:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## status of repos:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- git repo main `/brave-browser`
+  - origin https://github.com/brave/brave-browser.git
+  - origin https://github.com/rezajax/brave-browser.git
+- git repo src `/brave-browser/src`
+  - origin  https://github.com/brave/chromium
+  - origin https://github.com/rezajax/chromium
+- git repo LLvM
+  - origin  https://chromium.googlesource.com/external/github.com/llvm/llvm-project/clang/tools/clang-format.git 
+    - not change
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Status
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| reza head        | brave head          | status |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| brave-browser           | 1 commit ahead | nice  |
+| brave-core | 0 commit behind   | nice  |
+| chromium           | 2 commit ahead      | hmm   |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+learn with code..
 ```
