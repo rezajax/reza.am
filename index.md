@@ -3,7 +3,8 @@ layout: default
 ---
 
 [about me](./about.html).
-[mail](man@reza.am)
+
+[mail](mailto:man@reza.am)
 
 He always laughs :) , and his true love loves Sepi <3.
 
